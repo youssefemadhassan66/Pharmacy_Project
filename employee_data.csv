@@ -1,0 +1,5 @@
+ID,Name,Check-in,Check-out,Item Sold,Quantity,Amount
+1,John Doe,,2024-04-13 16:55:16.397703,,,
+2,Jane Smith,,,,,
+1,John Doe,,,Paracetamol,10.0,50.0
+2,Jane Smith,,,Aspirin,5.0,25.0
